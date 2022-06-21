@@ -23,7 +23,7 @@ lxml==3.8.0
 MarkupSafe==1.0
 matplotlib==2.0.2
 neo4j-driver==1.4.0
-numpy==1.13.1
+numpy==1.22.0
 pdfminer==20140328
 psycopg2==2.7.1
 py2neo==3.1.2
